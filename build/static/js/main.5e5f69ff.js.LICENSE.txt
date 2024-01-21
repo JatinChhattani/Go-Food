@@ -4,7 +4,11 @@
 	http://jedwatson.github.io/classnames
 */
 
-/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+/*!
+  * Bootstrap v5.3.2 (https://getbootstrap.com/)
+  * Copyright 2011-2023 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
 
 /**
  * @license React
@@ -47,7 +51,7 @@
  */
 
 /**
- * @remix-run/router v1.7.2
+ * @remix-run/router v1.14.2
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -66,7 +70,7 @@
  */
 
 /**
- * React Router DOM v6.14.2
+ * React Router DOM v6.21.3
  *
  * Copyright (c) Remix Software Inc.
  *
@@ -77,7 +81,7 @@
  */
 
 /**
- * React Router v6.14.2
+ * React Router v6.21.3
  *
  * Copyright (c) Remix Software Inc.
  *
