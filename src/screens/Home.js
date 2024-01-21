@@ -108,11 +108,11 @@ export default function Home() {
           </button>
         </div>{" "}
       </div>
-      <div className="container">
+      <div className="container justify-center">
         {foodCat !== []
           ? foodCat.map((data) => {
               return (
-                <div className="row mb-3">
+                <div className="row mb-3 ">
                   <div key={data.id} className="fs-3 m-3">
                     {data.CategoryName}
                   </div>
